@@ -8,6 +8,8 @@ use Statamic\Providers\AddonServiceProvider;
 
 class ServiceProvider extends AddonServiceProvider
 {
+    protected $routeNamespace = 'NineteenSquared\Instagram\Http\Controllers';
+    
     protected $routes = [
         'cp' => __DIR__.'/../routes/cp.php',
     ];
