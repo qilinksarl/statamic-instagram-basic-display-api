@@ -1,5 +1,5 @@
 {
-    "name": "nineteensquared/instagram",
+    "name": "qilink/instagram",
     "description": "Instagram feed for Statamic using Instagram Basic Display API",
     "type": "statamic-addon",
     "license": "MIT",
